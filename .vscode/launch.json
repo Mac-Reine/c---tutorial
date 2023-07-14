@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Sreelakshmi/OneDrive/Desktop/c++ oop",
-      "program": "c:/Users/Sreelakshmi/OneDrive/Desktop/c++ oop/build/Debug/outDebug",
+      "cwd": "c:/Users/Sreelakshmi/OneDrive/Desktop/c---tutorial",
+      "program": "c:/Users/Sreelakshmi/OneDrive/Desktop/c---tutorial/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
